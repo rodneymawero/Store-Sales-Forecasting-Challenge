@@ -1,0 +1,6 @@
+pandas==2.2.3
+numpy==1.26.4
+seaborn==0.13.2
+matplotlib==3.10.0
+scikit-learn==1.6.1
+matplotlib-venn==1.1.2
